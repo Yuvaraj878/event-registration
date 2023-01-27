@@ -6,19 +6,18 @@ To design, develop and deploy a web application for event registration.
 ## DESIGN STEPS:
 
 ### Step 1:
-
+Go to the figma.com website
 
 ### Step 2:
-
+Login and create a team project
 
 ### Step 3:
-
+Each team memebr can take part in designing the pages
 
 ### Step 4:
-
-
+Create a login page,home page,report page,registration page,Thank you page.
 ### Step 5:
-
+Prototype the pages
 ### Step 6:
 
 Validate the HTML and CSS code.
@@ -28,11 +27,13 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN:
-
-## PROGRAM :
-
-## OUTPUT:
+![OUTPUT](./OUT.png)
+![OUTPUT](./out2.png)
+![OUTPUT](./out3.png)
+![OUTPUT](./out4.png)
+![OUTPUT](./out5.png)
+![OUTPUT](./out6.png)
 
 
 ## Result:
-
+Thus successfully designed a web page for event registration and displayed
